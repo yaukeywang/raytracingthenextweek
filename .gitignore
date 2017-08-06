@@ -1,0 +1,6 @@
+.vscode
+*.[Oo]
+*.[Oo]ut
+*.ppm
+!result_ns_*.ppm
+smallrt
