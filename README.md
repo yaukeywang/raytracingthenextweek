@@ -1,2 +1,2 @@
 # raytracinginoneweekend
-Code of Ray Tracing in One Weekend.
+Code of Ray Tracing The Next Week.
